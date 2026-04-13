@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/techpoint24-de/ccc/compare/v1.1.2...v1.1.3) (2026-04-13)
+
+
+### Bug Fixes
+
+* Add env for publishing ([5036d12](https://github.com/techpoint24-de/ccc/commit/5036d1247d64a75d1e74e2789f336bd44099fcaf))
+
 ## [1.1.2](https://github.com/techpoint24-de/ccc/compare/v1.1.1...v1.1.2) (2026-04-13)
 
 
