@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "release-it",
+    "release": "dotenv release-it --",
     "build": "tsc"
   },
   "keywords": [
@@ -17,6 +17,7 @@
   "packageManager": "pnpm@10.28.1",
   "devDependencies": {
     "@release-it/conventional-changelog": "^10.0.6",
+    "dotenv-cli": "^11.0.0",
     "release-it": "^19.2.4",
     "typescript": "^6.0.2"
   }
