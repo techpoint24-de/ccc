@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/techpoint24-de/ccc/compare/v1.1.0...v1.1.1) (2026-04-13)
+
+
+### Bug Fixes
+
+* Add permissions ([a36c45e](https://github.com/techpoint24-de/ccc/commit/a36c45e8668f8c8d271b546962ffaefefe1b95eb))
+
 # [1.1.0](https://github.com/techpoint24-de/ccc/compare/v1.0.1...v1.1.0) (2026-04-13)
 
 
