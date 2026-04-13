@@ -34,4 +34,4 @@ jobs:
           registry-url: https://registry.npmjs.org/
       - uses: pnpm/action-setup@v4
       - run: pnpm install --frozen-lockfile
-      - run: pnpm publish --provenance --no-git-checks
+      - run: pnpm publish --access public --provenance --no-git-checks
