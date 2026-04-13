@@ -1,15 +1,18 @@
 {
   "name": "@techpoint24/ccc",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple color contrast checker",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "Color contrast",
+    "CCC"
+  ],
+  "author": "Johann Dettling",
+  "license": "MIT",
   "packageManager": "pnpm@10.28.1",
   "devDependencies": {
     "typescript": "^6.0.2"
