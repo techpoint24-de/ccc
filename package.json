@@ -1,6 +1,6 @@
 {
   "name": "@techpoint24/ccc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple color contrast checker",
   "main": "index.js",
   "scripts": {
